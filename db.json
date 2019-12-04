@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "date": "2019-12-31",
+            "description": "Recebimento de TED",
+            "amount": 1534.78,
+            "balance": {
+                "before": 0,
+                "after": 1534.78
+            }
+        },
+        {
+            "id": 2,
+            "date": "2019-12-30",
+            "description": "Pagamento da conta de gás",
+            "amount": -50.99,
+            "balance": {
+                "before": 1534.78,
+                "after": 1483.79
+            }
+        },
+        {
+            "id": 3,
+            "date": "2019-11-29",
+            "description": "Pagamento da conta de energia",
+            "amount": -85.09,
+            "balance": {
+                "before": 1483.79,
+                "after": 1398.07
+            }
+        },
+        {
+            "id": 4,
+            "date": "2019-10-12",
+            "description": "Recebimento de TED",
+            "amount": 1000.00,
+            "balance": {
+                "before": 1398.07,
+                "after": 1498.07
+            }
+        },
+        {
+            "id": 5,
+            "date": "2019-09-05",
+            "description": "Posto de gasolina Tiago Rocha's",
+            "amount": -24.00,
+            "balance": {
+                "before": 1498.07,
+                "after": 1474.07
+            }
+        }
+    ],
+    "paging": {
+        "totalItems": 5,
+        "currentPage": 1,
+        "pageSize": 5,
+        "pageCount": 1
+    }
+}
