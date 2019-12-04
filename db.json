@@ -49,12 +49,22 @@
                 "before": 1498.07,
                 "after": 1474.07
             }
+        },
+        {
+            "id": 6,
+            "date": "2019-08-15",
+            "description": "Mercado Verde",
+            "amount": -150.00,
+            "balance": {
+                "before": 1474.07,
+                "after": 1324.07
+            }
         }
     ],
     "paging": {
-        "totalItems": 5,
+        "totalItems": 6,
         "currentPage": 1,
-        "pageSize": 5,
+        "pageSize": 6,
         "pageCount": 1
     }
 }
