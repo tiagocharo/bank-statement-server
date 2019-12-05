@@ -4,10 +4,10 @@
             "id": 1,
             "date": "2019-12-31",
             "description": "Recebimento de TED",
-            "amount": 1534.78,
+            "amount": 200.00,
             "balance": {
-                "before": 0,
-                "after": 1534.78
+                "before": 1965.09,
+                "after": 2216.08
             }
         },
         {
@@ -16,8 +16,8 @@
             "description": "Pagamento da conta de gás",
             "amount": -50.99,
             "balance": {
-                "before": 1534.78,
-                "after": 1483.79
+                "before": 2016.08,
+                "after": 1965.09
             }
         },
         {
@@ -26,8 +26,8 @@
             "description": "Pagamento da conta de energia",
             "amount": -85.09,
             "balance": {
-                "before": 1483.79,
-                "after": 1398.07
+                "before": 2101.17,
+                "after": 2016.08
             }
         },
         {
@@ -36,8 +36,8 @@
             "description": "Recebimento de TED",
             "amount": 1000.00,
             "balance": {
-                "before": 1398.07,
-                "after": 1498.07
+                "before": 1101.17,
+                "after": 2101.17
             }
         },
         {
@@ -46,8 +46,8 @@
             "description": "Posto de gasolina Tiago Rocha's",
             "amount": -24.00,
             "balance": {
-                "before": 1498.07,
-                "after": 1474.07
+                "before": 1125.17,
+                "after": 1101.17
             }
         },
         {
@@ -56,15 +56,25 @@
             "description": "Mercado Verde",
             "amount": -150.00,
             "balance": {
-                "before": 1474.07,
-                "after": 1324.07
+                "before": 1275.17,
+                "after": 1125.17
+            }
+        },
+        {
+            "id": 7,
+            "date": "2019-07-03",
+            "description": "Sorveteria Lilos",
+            "amount": -48.90,
+            "balance": {
+                "before": 1324.07,
+                "after": 1275.17
             }
         }
     ],
     "paging": {
-        "totalItems": 6,
+        "totalItems": 7,
         "currentPage": 1,
-        "pageSize": 6,
+        "pageSize": 7,
         "pageCount": 1
     }
 }
